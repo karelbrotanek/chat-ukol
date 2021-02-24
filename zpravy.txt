@@ -1,0 +1,4 @@
+Karel: Ahoj
+Karel: Jak se mas ? 
+Adam: Cau
+Adam: Dobre
